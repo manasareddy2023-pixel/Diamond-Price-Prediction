@@ -1,0 +1,32 @@
+# Diamond Price Prediction Dataset
+
+**Dataset Name:** Diamonds Dataset
+
+**Description:**
+
+This dataset contains information about diamonds and their prices.
+
+**Target Variable:**
+- price: Price of the diamond in US dollars.
+
+**Input Features:**
+1. carat - Weight of the diamond.
+2. cut - Quality of the diamond cut.
+3. color - Diamond color grade.
+4. clarity - Diamond clarity grade.
+5. depth - Total depth percentage.
+6. table - Width of the top of the diamond.
+7. x - Length in mm.
+8. y - Width in mm.
+9. z - Depth in mm.
+
+**Machine Learning Algorithm:**
+K-Nearest Neighbors Regressor (KNN).
+
+**Evaluation Metrics:**
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+**Application:**
+Diamond Price Prediction using Streamlit.
